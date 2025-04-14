@@ -1,0 +1,201 @@
+ID,Edad,Género,Horas_sueño,Ejercicio_semanal,Alimentación_saludable,Meditación,Autocuidado,Uso_pantallas_diario,Hobbies_pasion,Bienestar_emocional
+1,56,Mujer,5.4,5,A veces,Nunca,Medio,5.1,Música,Medio
+2,46,Hombre,6.9,5,Siempre,Nunca,Bajo,5.2,Pintura,Medio
+3,32,Mujer,4.6,1,A veces,Nunca,Alto,6.2,Pintura,Medio
+4,60,Mujer,5.4,3,Siempre,Frecuente,Medio,3.0,Deporte,Alto
+5,25,Mujer,8.9,6,A veces,Nunca,Medio,4.5,Lectura,Bajo
+6,38,Hombre,8.6,5,A veces,A veces,Medio,1.7,Lectura,Alto
+7,56,Hombre,6.8,1,A veces,Nunca,Alto,5.8,Deporte,Medio
+8,36,Mujer,6.4,4,A veces,A veces,Medio,6.3,Deporte,Medio
+9,40,Mujer,7.1,1,Siempre,A veces,Medio,4.0,Ninguno,Medio
+10,28,Hombre,9.8,5,A veces,Frecuente,Medio,8.1,Música,Alto
+11,28,Mujer,7.5,2,A veces,Nunca,Bajo,2.5,Pintura,Medio
+12,41,Mujer,8.1,2,Siempre,Nunca,Alto,2.1,Deporte,Medio
+13,53,Hombre,6.8,6,A veces,Nunca,Medio,5.4,Deporte,Bajo
+14,57,Otro,7.1,2,A veces,Frecuente,Medio,7.1,Pintura,Medio
+15,41,Mujer,7.8,6,Siempre,Frecuente,Alto,8.4,Pintura,Bajo
+16,20,Hombre,7.2,6,A veces,A veces,Alto,4.1,Ninguno,Alto
+17,39,Hombre,4.7,5,Nunca,A veces,Medio,7.2,Música,Medio
+18,19,Mujer,8.5,2,Siempre,A veces,Alto,4.9,Música,Medio
+19,41,Hombre,6.3,6,A veces,Nunca,Medio,4.7,Pintura,Bajo
+20,61,Mujer,9.5,3,A veces,Frecuente,Medio,6.8,Deporte,Bajo
+21,47,Hombre,7.8,4,Nunca,A veces,Medio,6.3,Lectura,Alto
+22,55,Hombre,7.1,1,Siempre,A veces,Medio,1.8,Música,Bajo
+23,19,Hombre,7.5,1,A veces,A veces,Bajo,8.0,Música,Bajo
+24,38,Mujer,6.9,5,A veces,Nunca,Alto,7.8,Series,Bajo
+25,50,Hombre,6.4,2,Siempre,Nunca,Alto,3.7,Música,Alto
+26,29,Mujer,7.2,2,Siempre,Frecuente,Bajo,5.8,Lectura,Alto
+27,39,Mujer,8.1,6,Nunca,Nunca,Alto,6.0,Lectura,Medio
+28,61,Mujer,6.4,0,A veces,A veces,Bajo,5.5,Lectura,Medio
+29,42,Hombre,6.3,6,A veces,Nunca,Medio,3.9,Música,Medio
+30,44,Hombre,6.6,4,Siempre,A veces,Medio,3.7,Deporte,Alto
+31,59,Mujer,8.1,3,Nunca,Nunca,Bajo,4.9,Música,Medio
+32,45,Hombre,8.7,1,A veces,A veces,Alto,7.3,Series,Bajo
+33,33,Mujer,7.4,6,Siempre,Frecuente,Alto,6.1,Lectura,Bajo
+34,32,Hombre,7.7,0,Siempre,Nunca,Medio,4.3,Deporte,Bajo
+35,64,Mujer,6.2,0,A veces,A veces,Bajo,6.5,Series,Medio
+36,61,Hombre,8.1,6,Siempre,A veces,Bajo,-0.7,Pintura,Alto
+37,20,Mujer,7.7,5,Nunca,A veces,Medio,7.3,Deporte,Medio
+38,54,Hombre,6.1,1,Siempre,Frecuente,Alto,1.5,Lectura,Bajo
+39,24,Mujer,4.9,5,Nunca,Frecuente,Medio,4.3,Lectura,Bajo
+40,38,Mujer,5.5,3,A veces,Nunca,Bajo,2.8,Pintura,Alto
+41,26,Mujer,6.2,0,Siempre,Nunca,Medio,2.4,Ninguno,Medio
+42,56,Hombre,8.4,0,Nunca,Nunca,Medio,7.3,Pintura,Alto
+43,35,Hombre,8.9,4,A veces,A veces,Medio,4.1,Deporte,Medio
+44,21,Mujer,6.5,3,Siempre,Nunca,Bajo,5.7,Pintura,Medio
+45,42,Hombre,6.5,0,Siempre,A veces,Medio,4.9,Deporte,Bajo
+46,31,Hombre,7.3,3,A veces,A veces,Medio,6.0,Música,Bajo
+47,26,Hombre,7.0,1,A veces,A veces,Alto,5.2,Deporte,Medio
+48,43,Hombre,8.1,2,A veces,Frecuente,Medio,2.4,Ninguno,Alto
+49,19,Mujer,6.4,0,A veces,Nunca,Medio,7.0,Música,Medio
+50,37,Mujer,8.1,4,A veces,Nunca,Alto,4.0,Pintura,Medio
+51,45,Hombre,6.7,1,Nunca,Frecuente,Bajo,1.9,Lectura,Bajo
+52,64,Hombre,8.0,6,Siempre,A veces,Alto,4.1,Deporte,Alto
+53,24,Hombre,6.7,3,A veces,A veces,Medio,8.0,Música,Alto
+54,61,Mujer,6.3,6,A veces,A veces,Bajo,6.7,Deporte,Medio
+55,25,Mujer,9.3,5,A veces,Nunca,Medio,4.3,Series,Alto
+56,64,Hombre,8.3,1,Siempre,Frecuente,Medio,4.3,Lectura,Medio
+57,52,Hombre,4.8,6,Nunca,Frecuente,Bajo,4.4,Pintura,Medio
+58,31,Hombre,6.5,0,A veces,A veces,Medio,9.2,Series,Alto
+59,34,Hombre,8.4,3,A veces,Nunca,Medio,5.8,Ninguno,Alto
+60,53,Hombre,5.6,2,A veces,A veces,Medio,5.9,Lectura,Medio
+61,57,Mujer,7.9,1,Nunca,A veces,Bajo,7.1,Lectura,Bajo
+62,21,Mujer,7.8,0,Siempre,Nunca,Alto,5.5,Música,Medio
+63,19,Hombre,6.2,4,Siempre,Frecuente,Alto,4.5,Ninguno,Alto
+64,23,Hombre,7.0,5,A veces,Nunca,Alto,4.6,Ninguno,Bajo
+65,59,Mujer,4.5,3,A veces,Frecuente,Medio,4.9,Deporte,Medio
+66,21,Mujer,9.1,1,Siempre,A veces,Bajo,4.9,Series,Medio
+67,46,Hombre,6.6,1,Siempre,Nunca,Medio,6.5,Deporte,Medio
+68,35,Mujer,8.0,2,Nunca,A veces,Bajo,5.1,Pintura,Medio
+69,43,Mujer,7.7,2,A veces,Frecuente,Bajo,6.5,Música,Alto
+70,61,Hombre,8.6,4,A veces,Frecuente,Medio,4.8,Series,Bajo
+71,51,Hombre,6.5,5,A veces,Frecuente,Medio,5.2,Música,Bajo
+72,27,Hombre,7.2,4,Siempre,A veces,Medio,1.0,Series,Bajo
+73,53,Mujer,7.7,0,Siempre,A veces,Medio,6.8,Series,Alto
+74,31,Hombre,8.0,0,Siempre,Frecuente,Medio,5.7,Pintura,Medio
+75,48,Mujer,8.4,4,A veces,Nunca,Bajo,7.0,Música,Medio
+76,32,Mujer,6.4,5,Nunca,A veces,Alto,-0.8,Lectura,Alto
+77,25,Hombre,6.2,4,Siempre,Nunca,Medio,9.2,Lectura,Alto
+78,31,Hombre,8.6,5,Siempre,Frecuente,Medio,4.7,Lectura,Alto
+79,40,Hombre,4.6,5,Nunca,Frecuente,Bajo,7.2,Música,Alto
+80,57,Hombre,8.9,6,Siempre,Nunca,Medio,2.9,Ninguno,Medio
+81,38,Hombre,6.6,3,Siempre,Frecuente,Medio,6.2,Deporte,Alto
+82,33,Mujer,7.0,5,A veces,Frecuente,Bajo,2.9,Lectura,Medio
+83,62,Mujer,6.2,2,A veces,Nunca,Bajo,3.8,Lectura,Alto
+84,35,Mujer,6.9,5,A veces,A veces,Medio,8.8,Deporte,Alto
+85,64,Mujer,8.5,5,Nunca,Frecuente,Medio,4.6,Pintura,Alto
+86,41,Otro,7.9,5,A veces,Nunca,Bajo,5.4,Deporte,Medio
+87,43,Mujer,7.6,6,Siempre,A veces,Alto,6.7,Ninguno,Bajo
+88,42,Hombre,7.1,6,Nunca,Nunca,Bajo,6.0,Deporte,Medio
+89,62,Hombre,5.3,0,A veces,Frecuente,Medio,5.3,Ninguno,Alto
+90,58,Hombre,6.0,6,A veces,Frecuente,Alto,5.7,Series,Alto
+91,46,Hombre,6.6,2,A veces,Frecuente,Medio,9.8,Lectura,Bajo
+92,32,Hombre,7.5,2,Siempre,A veces,Medio,4.9,Ninguno,Bajo
+93,62,Hombre,7.1,6,A veces,Frecuente,Medio,5.4,Música,Bajo
+94,18,Mujer,8.2,4,A veces,Frecuente,Bajo,7.1,Series,Alto
+95,42,Hombre,7.6,3,Siempre,A veces,Alto,7.2,Lectura,Alto
+96,24,Mujer,7.1,6,A veces,Frecuente,Medio,7.4,Series,Bajo
+97,26,Mujer,9.7,5,A veces,Nunca,Alto,6.3,Series,Medio
+98,41,Hombre,7.5,1,A veces,A veces,Bajo,2.7,Series,Alto
+99,18,Mujer,6.5,3,Nunca,Nunca,Bajo,8.3,Series,Alto
+100,61,Hombre,9.2,3,Nunca,Nunca,Bajo,2.7,Lectura,Medio
+101,25,Hombre,8.4,2,A veces,Nunca,Medio,5.6,Música,Medio
+102,41,Hombre,9.2,3,A veces,A veces,Medio,3.5,Deporte,Medio
+103,28,Mujer,6.9,6,Siempre,A veces,Alto,4.9,Música,Medio
+104,34,Mujer,8.2,5,A veces,Frecuente,Medio,5.7,Pintura,Medio
+105,25,Hombre,5.3,5,A veces,Nunca,Alto,5.6,Lectura,Medio
+106,52,Mujer,7.9,0,A veces,A veces,Bajo,5.8,Ninguno,Alto
+107,52,Otro,6.8,5,Nunca,A veces,Alto,8.2,Pintura,Medio
+108,50,Otro,5.4,5,A veces,Frecuente,Medio,5.9,Series,Alto
+109,22,Hombre,8.2,2,Nunca,A veces,Medio,4.5,Música,Bajo
+110,59,Mujer,4.8,5,Siempre,A veces,Alto,6.9,Series,Medio
+111,56,Mujer,4.7,0,Nunca,Frecuente,Medio,7.4,Ninguno,Bajo
+112,58,Hombre,7.4,1,A veces,A veces,Medio,2.5,Deporte,Bajo
+113,45,Mujer,7.7,6,Nunca,Nunca,Bajo,6.2,Pintura,Alto
+114,24,Mujer,8.2,2,Siempre,Nunca,Bajo,6.4,Series,Alto
+115,26,Hombre,7.9,1,A veces,Frecuente,Alto,4.4,Música,Bajo
+116,25,Hombre,8.8,2,A veces,Nunca,Medio,7.8,Deporte,Medio
+117,29,Hombre,7.8,4,Nunca,Frecuente,Medio,4.7,Lectura,Alto
+118,51,Hombre,6.8,3,Siempre,A veces,Medio,5.3,Música,Bajo
+119,50,Mujer,6.9,4,A veces,Frecuente,Bajo,4.7,Lectura,Medio
+120,40,Hombre,6.7,5,Siempre,Frecuente,Bajo,5.0,Música,Alto
+121,41,Otro,7.4,1,A veces,Frecuente,Medio,2.8,Música,Medio
+122,54,Mujer,5.7,5,Nunca,A veces,Medio,2.1,Música,Bajo
+123,52,Hombre,7.4,3,Nunca,Frecuente,Bajo,8.2,Ninguno,Medio
+124,61,Hombre,6.9,2,A veces,A veces,Medio,3.3,Deporte,Alto
+125,57,Hombre,7.3,3,A veces,A veces,Bajo,3.0,Ninguno,Medio
+126,39,Hombre,7.3,0,Nunca,A veces,Medio,0.7,Deporte,Bajo
+127,44,Hombre,4.1,3,Siempre,Frecuente,Bajo,3.7,Lectura,Alto
+128,52,Mujer,5.9,0,A veces,Frecuente,Medio,2.4,Deporte,Bajo
+129,18,Mujer,6.9,3,A veces,Frecuente,Medio,8.3,Deporte,Alto
+130,52,Hombre,6.9,6,A veces,A veces,Medio,7.0,Música,Bajo
+131,54,Hombre,7.3,0,A veces,A veces,Bajo,3.6,Pintura,Alto
+132,64,Hombre,7.4,1,A veces,Frecuente,Bajo,9.5,Lectura,Medio
+133,31,Hombre,8.8,5,Nunca,Nunca,Medio,7.0,Pintura,Medio
+134,20,Hombre,7.4,5,Nunca,Nunca,Medio,4.4,Pintura,Bajo
+135,18,Hombre,6.6,4,Siempre,A veces,Medio,0.0,Música,Medio
+136,22,Hombre,5.1,5,Siempre,Nunca,Bajo,9.6,Música,Alto
+137,43,Hombre,5.4,2,A veces,Nunca,Medio,2.2,Series,Alto
+138,31,Hombre,7.6,6,A veces,Nunca,Alto,1.7,Deporte,Medio
+139,56,Hombre,8.3,3,A veces,Nunca,Medio,7.0,Música,Medio
+140,44,Hombre,8.8,4,A veces,Nunca,Bajo,9.9,Ninguno,Alto
+141,26,Mujer,6.0,2,Nunca,Frecuente,Medio,7.8,Música,Alto
+142,32,Mujer,6.6,2,Nunca,A veces,Bajo,6.1,Pintura,Medio
+143,32,Mujer,7.3,0,Siempre,A veces,Bajo,6.2,Ninguno,Medio
+144,43,Hombre,9.5,5,A veces,A veces,Alto,6.7,Lectura,Medio
+145,59,Mujer,7.1,1,Nunca,Nunca,Bajo,6.5,Música,Medio
+146,30,Mujer,8.9,1,A veces,Frecuente,Medio,5.6,Música,Bajo
+147,49,Hombre,7.2,4,A veces,Frecuente,Medio,5.2,Lectura,Medio
+148,56,Mujer,8.4,6,A veces,Nunca,Medio,4.9,Música,Medio
+149,49,Hombre,8.2,1,Nunca,A veces,Medio,3.5,Pintura,Alto
+150,21,Mujer,7.2,3,Nunca,Frecuente,Bajo,4.4,Música,Bajo
+151,47,Mujer,5.8,1,Siempre,Frecuente,Medio,1.6,Deporte,Medio
+152,54,Hombre,6.7,4,Nunca,A veces,Medio,4.8,Ninguno,Medio
+153,40,Mujer,8.8,1,A veces,A veces,Bajo,3.0,Series,Medio
+154,56,Mujer,8.1,3,A veces,Nunca,Medio,2.8,Pintura,Bajo
+155,62,Hombre,6.5,0,Nunca,Frecuente,Bajo,5.4,Lectura,Medio
+156,32,Hombre,6.6,6,A veces,Nunca,Bajo,7.8,Pintura,Medio
+157,60,Mujer,4.9,4,Siempre,Frecuente,Medio,6.8,Deporte,Medio
+158,46,Hombre,8.7,0,Siempre,A veces,Bajo,1.9,Deporte,Medio
+159,53,Mujer,8.1,0,Siempre,A veces,Medio,3.0,Música,Medio
+160,30,Mujer,6.8,0,A veces,A veces,Medio,6.9,Series,Alto
+161,49,Hombre,7.2,2,A veces,Nunca,Alto,3.0,Deporte,Medio
+162,24,Hombre,4.4,6,A veces,Nunca,Bajo,4.6,Música,Alto
+163,39,Hombre,6.4,5,A veces,Nunca,Bajo,6.1,Lectura,Medio
+164,45,Hombre,8.6,6,Siempre,Nunca,Bajo,3.1,Deporte,Bajo
+165,19,Otro,8.2,2,Nunca,Frecuente,Medio,5.2,Series,Bajo
+166,59,Hombre,7.4,5,Nunca,A veces,Medio,2.3,Pintura,Medio
+167,62,Mujer,7.0,6,A veces,Nunca,Bajo,3.8,Series,Alto
+168,23,Hombre,8.0,0,Nunca,Frecuente,Alto,5.6,Música,Alto
+169,45,Mujer,6.7,4,Nunca,Frecuente,Bajo,1.8,Deporte,Alto
+170,45,Mujer,5.0,5,A veces,Frecuente,Medio,5.9,Deporte,Medio
+171,61,Mujer,7.0,3,A veces,Frecuente,Medio,5.0,Música,Medio
+172,61,Mujer,7.5,3,Siempre,Nunca,Alto,6.1,Lectura,Bajo
+173,37,Otro,8.3,1,Siempre,A veces,Medio,5.4,Series,Medio
+174,47,Hombre,5.3,5,A veces,Frecuente,Alto,7.7,Música,Medio
+175,28,Hombre,6.9,4,A veces,A veces,Medio,5.3,Deporte,Bajo
+176,45,Mujer,6.9,2,A veces,Nunca,Alto,4.1,Lectura,Bajo
+177,42,Mujer,5.7,0,A veces,Frecuente,Bajo,5.2,Música,Medio
+178,56,Mujer,7.6,1,A veces,Nunca,Alto,6.1,Lectura,Alto
+179,50,Mujer,7.9,3,A veces,Nunca,Medio,5.1,Ninguno,Alto
+180,18,Hombre,6.7,2,A veces,A veces,Alto,5.1,Series,Alto
+181,44,Hombre,9.5,2,A veces,A veces,Medio,3.6,Ninguno,Medio
+182,30,Hombre,6.6,0,A veces,A veces,Medio,3.7,Deporte,Medio
+183,58,Mujer,6.5,5,A veces,Nunca,Medio,2.2,Música,Medio
+184,20,Hombre,6.4,3,Siempre,Frecuente,Medio,8.5,Deporte,Alto
+185,56,Hombre,6.0,4,Siempre,Nunca,Bajo,2.5,Deporte,Bajo
+186,23,Hombre,6.3,2,Nunca,Nunca,Bajo,3.6,Series,Medio
+187,25,Hombre,5.3,0,Siempre,Frecuente,Bajo,3.6,Música,Alto
+188,44,Mujer,6.8,4,A veces,Frecuente,Bajo,6.8,Deporte,Medio
+189,26,Mujer,7.1,5,Siempre,Frecuente,Alto,4.4,Música,Medio
+190,54,Mujer,4.3,3,Siempre,Frecuente,Bajo,7.5,Lectura,Medio
+191,50,Hombre,6.9,5,A veces,A veces,Alto,3.7,Pintura,Bajo
+192,59,Mujer,7.1,2,Nunca,A veces,Medio,5.6,Deporte,Medio
+193,61,Mujer,7.6,4,A veces,Nunca,Bajo,3.3,Lectura,Medio
+194,41,Mujer,8.4,4,A veces,A veces,Medio,9.3,Lectura,Bajo
+195,32,Mujer,8.0,4,A veces,A veces,Medio,2.6,Deporte,Bajo
+196,49,Hombre,6.3,2,A veces,Nunca,Medio,5.6,Series,Alto
+197,49,Hombre,6.1,2,Nunca,Frecuente,Medio,6.3,Series,Medio
+198,41,Mujer,7.7,5,Siempre,A veces,Medio,5.8,Ninguno,Medio
+199,58,Mujer,6.3,1,Siempre,Nunca,Bajo,4.6,Series,Medio
+200,29,Hombre,5.5,5,A veces,Nunca,Alto,4.7,Lectura,Alto
